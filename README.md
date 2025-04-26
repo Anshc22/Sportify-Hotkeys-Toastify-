@@ -1,5 +1,5 @@
 # Spotify-Hotkeys-Toastify-
-Software to use hotkeys to play | pause | Change Song | Adjust Volume for Spotify when its opened in the background.
+Software to use Global hotkeys to play | pause | Change Song | Adjust Volume for Spotify when its opened in the background.
 
 ![image](https://github.com/user-attachments/assets/7d3a7f78-c804-4121-a723-a777a11ad89e)
 
@@ -26,7 +26,7 @@ Software to use hotkeys to play | pause | Change Song | Adjust Volume for Spotif
 
 ## Other Functionalities
 
-### Settings 
+### 1) Settings 
 
 Button:- ![image](https://github.com/user-attachments/assets/df6ed182-e70e-4ca9-b786-9d7f7f56fb37)
 
@@ -35,20 +35,20 @@ To edit the Client ID and Secret.
 ![image](https://github.com/user-attachments/assets/66dcce47-3597-4bd0-8726-95708ce3aded)
 
 
-### Theme
+### 2) Theme
 
 Change the color palette of the app.
 Reset is the default spotify green color.
 ![image](https://github.com/user-attachments/assets/900a16eb-37d8-48b5-acb6-0ca199bfb653)
 ![image](https://github.com/user-attachments/assets/87c64933-2595-4cab-98f8-50a57495ef8a)
 
-### Pin
+### 3) Pin
 
 It will pin/overlay the toastify app over any other app.
 Drag the window as required to the desired part of the screen.
 ![image](https://github.com/user-attachments/assets/ccb086c8-fcfe-4980-8f80-5268a10aa389)
 
-### Accessing Artist Library from the title.
+### 4) Accessing Artist Library from the title.
 
 Click on artist name to open the discography of the artist in the spotify app.
 
