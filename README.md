@@ -10,7 +10,7 @@ Software to use hotkeys to play | pause | Change Song | Adjust Volume for Spotif
 
 - Open Exe file downloaded from the releases.
 - Enter Client Id and Client Secret for Spotify generated before.
-  - **If after entering the creds for the first time it closes just reopen the exe.  ** 
+  - **If after entering the creds for the first time it closes just reopen the exe.**
 - Have Spotify App (Not the web version) opened in the background.
 
 ### Hotkeys
