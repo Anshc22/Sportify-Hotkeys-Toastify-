@@ -1,0 +1,6 @@
+spotipy
+pillow
+requests
+colorthief
+python-dotenv
+pywin32
