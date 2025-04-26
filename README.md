@@ -1,10 +1,15 @@
 # Spotify-Hotkeys-Toastify-
 Software to use hotkeys to play | pause | Change Song | Adjust Volume for Spotify when its opened in the background.
 
+## Prerequisites
+
+- Create App and initialise Spotify Client id from this.
+- Use "http://localhost:2205/callback" for redirect url.
+  
 ## Instructions
 
 - Open Exe file downloaded from the releases.
-- Enter Client Id and Client Secret for Spotify.
+- Enter Client Id and Client Secret for Spotify generated before.
 - Have Spotify App (Not the web version) opened in the background.
 
 ### Hotkeys
