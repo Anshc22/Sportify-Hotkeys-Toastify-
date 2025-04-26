@@ -32,7 +32,8 @@ Button:- ![image](https://github.com/user-attachments/assets/df6ed182-e70e-4ca9-
 
 To edit the Client ID and Secret.
 
-![image](https://github.com/user-attachments/assets/7cddaaba-4f9f-4f8a-9e2a-f051b3965ef9)
+![image](https://github.com/user-attachments/assets/66dcce47-3597-4bd0-8726-95708ce3aded)
+
 
 ### Theme
 
