@@ -16,7 +16,7 @@ Software to use hotkeys to play | pause | Change Song | Adjust Volume for Spotif
   - **If after entering the creds for the first time it closes just reopen the exe.**
 - Have Spotify App (Not the web version) opened in the background.
 
-### Hotkeys
+## Hotkeys
 
 - Play / Stop Song :- Ctrl + Alt + Space
 - Next :- Ctrl + Alt + ➡️
