@@ -24,7 +24,7 @@ Software to use hotkeys to play | pause | Change Song | Adjust Volume for Spotif
 
 ### Settings 
 
-Button:- D![image](https://github.com/user-attachments/assets/df6ed182-e70e-4ca9-b786-9d7f7f56fb37)
+Button:- ![image](https://github.com/user-attachments/assets/df6ed182-e70e-4ca9-b786-9d7f7f56fb37)
 
 To edit the Client ID and Secret.
 
