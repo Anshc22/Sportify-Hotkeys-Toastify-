@@ -1,6 +1,9 @@
 # Spotify-Hotkeys-Toastify-
 Software to use hotkeys to play | pause | Change Song | Adjust Volume for Spotify when its opened in the background.
 
+![image](https://github.com/user-attachments/assets/7d3a7f78-c804-4121-a723-a777a11ad89e)
+
+
 ## Prerequisites
 
 - Create App and initialise Spotify Client id/Secret from this[https://developer.spotify.com/].
