@@ -52,8 +52,10 @@ Click on artist name to open the discography of the artist in the spotify app.
 
 ## Limitations ⚠️
 
-The icon for the toastify app does not appear on the taskbar or in the context window , to close it click on the close icon or close the cmd window.
-This is important as if its minimised or in the background won't be able to bring it up.
+-The icon for the toastify app does not appear on the taskbar or in the context window , to close it click on the close icon or close the cmd window.
+  -This is important as if its minimised or in the background won't be able to bring it up.
+
+-If after entering the creds for the first time it closes just reopen the exe.
 
 
 ## Code for the project is posted as well if interested.
