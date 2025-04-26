@@ -3,7 +3,7 @@ Software to use hotkeys to play | pause | Change Song | Adjust Volume for Spotif
 
 ## Prerequisites
 
-- Create App and initialise Spotify Client id from this.
+- Create App and initialise Spotify Client id from this[https://developer.spotify.com/].
 - Use "http://localhost:2205/callback" for redirect url.
   
 ## Instructions
